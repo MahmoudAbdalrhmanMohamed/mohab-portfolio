@@ -91,6 +91,18 @@ nav a:hover {
   border-radius: 12px;
   padding: 9px 12px;
 }
+.lang-btn {
+  background: var(--panel);
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 9px 12px;
+  cursor: pointer;
+  transition: 0.25s;
+}
+.lang-btn:hover {
+  background: var(--line);
+}
 .section {
   position: relative;
   z-index: 1;

@@ -1,0 +1,16 @@
+{
+  "name": "Mohab Mahmoud Portfolio",
+  "short_name": "Mohab Portfolio",
+  "description": "Workforce Development Professional Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070912",
+  "theme_color": "#f7c873",
+  "icons": [
+    {
+      "src": "assets/profile.jfif",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}
