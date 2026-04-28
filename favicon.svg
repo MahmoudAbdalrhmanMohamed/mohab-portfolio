@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Mohab Mahmoud">
+  <defs>
+    <linearGradient id="gold" x1="18" y1="112" x2="110" y2="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b98232"/>
+      <stop offset="0.52" stop-color="#f7c873"/>
+      <stop offset="1" stop-color="#fff1b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="#070912"/>
+  <circle cx="97" cy="30" r="18" fill="#f7c873" opacity="0.18"/>
+  <path d="M28 91V37h14l22 31 22-31h14v54H86V59L68 84h-8L42 59v32H28Z" fill="url(#gold)"/>
+</svg>

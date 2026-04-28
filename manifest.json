@@ -1,16 +1,36 @@
 {
-  "name": "Mohab Mahmoud Portfolio",
-  "short_name": "Mohab Portfolio",
-  "description": "Workforce Development Professional Portfolio",
+  "name": "Mohab Mahmoud | Workforce Development Professional",
+  "short_name": "Mohab",
+  "description": "Portfolio for Mohab Mahmoud, a workforce development professional specializing in career coaching, job placement, and client engagement.",
+  "id": "/",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "portrait-primary",
   "background_color": "#070912",
   "theme_color": "#f7c873",
+  "categories": ["business", "productivity", "education"],
+  "lang": "en",
+  "dir": "ltr",
   "icons": [
     {
-      "src": "/assets/profile.jfif",
+      "src": "/icons/icon-192.png",
       "sizes": "192x192",
-      "type": "image/jpeg"
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
