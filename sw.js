@@ -1,10 +1,12 @@
-const CACHE_NAME = "mohab-portfolio-v2";
+const CACHE_NAME = "mohab-portfolio-v8";
 const APP_SHELL = [
   "/",
   "/index.html",
   "/assets/styles.css",
+  "/assets/profile-data.js",
   "/assets/script.js",
   "/assets/profile.webp",
+  "/og-image.png",
   "/favicon.svg",
   "/manifest.json",
   "/icons/icon-192.png",
